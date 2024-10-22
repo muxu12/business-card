@@ -1,0 +1,28 @@
+.Image-Selector{
+  width : 150px;
+}
+
+body{
+   margin : 50px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  display: block;
+  width : 400px;
+  margin : 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 5px solid rgb(121, 16, 121);
+  color: black;
+  background-color: #9fcdf8;
+  border-radius: 20px;
+}
+
+.blue-border{
+  
+  text-align: center;
+ 
+}
+
